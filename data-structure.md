@@ -10,7 +10,7 @@ description: 此章節將會介紹 JavaScript 的資料型別與資料結構
 
 ### 動態弱型別 {#dynamic-weekly-type}
 
-已經知道了 JavaScript 是弱型別，這代表你可以不用再宣告變數時指定型別，程式在運作時，型別會自動轉換；這也代表你可以以不同的型別重複使用同一個變數。底下的程式範例在 JavaScript 是合法的：
+已經知道了 JavaScript 是弱型別，這代表你可以不用於宣告變數時指定型別，程式在運作時，型別會自動轉換；這也代表你可以以不同的型別重複使用同一個變數。底下的程式範例在 JavaScript 是合法的：
 
 ```javascript
 var foo = 1;

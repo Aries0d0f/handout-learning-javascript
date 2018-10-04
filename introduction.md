@@ -79,7 +79,7 @@ description: >-
 
 JavaScript 是個動態的弱型別語言，這也意味著使用 JavaScript 編程時如果不以嚴謹、系統化邏輯的方式進行編程，將會對開發產生許多不必要的麻煩。
 
-關於 JavaScript 資料型別的詳細介紹請看 [Data Structure](https://handouts.aries0d0f.me/javascript-handout-basic/data-structure) 章節
+關於 JavaScript 資料型別的詳細介紹請看 [Data Structure](data-structure.md) 章節
 
 ## 在 HTML 中嵌入或引用你的 JavaScript {#use-js-in-html}
 
